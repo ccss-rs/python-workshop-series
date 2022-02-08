@@ -1,0 +1,5 @@
+name: python-workshop-interactive
+channels:
+  - conda-forge
+dependencies:
+  - pandas
